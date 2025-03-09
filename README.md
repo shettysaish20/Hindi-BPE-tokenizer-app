@@ -84,8 +84,8 @@ The tokenization process involves the following steps:
 
 ### Tokenizer Tab
 
-![Tokenizer Interface](images\Tokenizer.png)
+![Tokenizer Interface](images/Tokenizer.png)
 
 ### Decoder Tab
 
-![Tokenizer Interface](images\Decoder.png)
+![Tokenizer Interface](images/Decoder.png)
