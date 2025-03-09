@@ -4,6 +4,12 @@ This Gradio application tokenizes Hindi text using a custom regex-based Byte Pai
 
 Check out the HuggingFace App: [Hindi BPE Tokenizer](https://huggingface.co/spaces/saish-shetty/hindi-bpe-tokenizer)
 
+### Training Stats
+1. Vocabulary Size: <b>5500</b> ✅
+2. Average Compression Ratio: <b>7.822</b> ✅
+3. Training iterations: <b>5244</b> (First 256 tokens are Single Byte encodings) ✅
+
+
 ## Overview
 
 The application consists of the following key components:
