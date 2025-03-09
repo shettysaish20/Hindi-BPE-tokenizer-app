@@ -2,6 +2,8 @@
 
 This Gradio application tokenizes Hindi text using a custom regex-based Byte Pair Encoding (BPE) tokenizer. It provides a user-friendly interface to tokenize Hindi text, view the token IDs, calculate compression ratios, and decode token IDs back into text.
 
+Check out the HuggingFace App: [Hindi BPE Tokenizer](https://huggingface.co/spaces/saish-shetty/hindi-bpe-tokenizer)
+
 ## Overview
 
 The application consists of the following key components:
@@ -76,3 +78,14 @@ The tokenization process involves the following steps:
 *   **Regular Expression Pattern:** You can customize the regular expression pattern in `regex.py` to change how the text is initially split into tokens.
 *   **BPE Model Training:** You can train your own BPE model using a different corpus of Hindi text or by adjusting the training parameters.
 *   **Gradio Interface:** You can customize the Gradio interface by adding or modifying components, changing the layout, or adding new features.
+
+
+## App Snapshots
+
+### Tokenizer Tab
+
+![Tokenizer Interface](images\Tokenizer.png)
+
+### Decoder Tab
+
+![Tokenizer Interface](images\Decoder.png)
